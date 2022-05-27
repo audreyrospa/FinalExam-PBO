@@ -1,0 +1,5 @@
+model\ModelMovie.class
+Controller\controller.class
+View\MovieView.class
+finalexam\FinalExam.class
+modeldatabase\Connector.class
